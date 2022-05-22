@@ -38,22 +38,15 @@ $\gamma_s$ is aka the market share in the competition space
 | Gamma | Growth-Causal(s) | Company specific actions to capture more market share |
 | --- | --- | --- |
 | Gamma-Tech (S) | - Technological penetration | Affordable Solutions launched as add-on to their core products (E.g. POS machines) |
-| Gamma-Industry (I) | • Financial Literacy
-• Awareness Campaigns
-• Influencers/Activism | Design Campaigns, Workshops, Free-Try(s),  and try Influencer Marketing to 
-[Increase market participants and be the sole-beneficiary] |
-| Gamma-Company (S) | • Broadcast value proposition
-• Play with marketing-mix
-• SEOs
-• Viral content(s) etc. | Make efforts to capture sale-ready market |
-[Smartphone penetration growth forecast](https://www.statista.com/statistics/467163/forecast-of-smartphone-users-in-india/)
-![This is an image](https://lh5.googleusercontent.com/NsuN_ddkiLmu9pw5o4voGqYzqeqKBEbhP1Cw_xzULzsHTUlsCphKVrpSG_yHvjHnoYU93EyttlsMB4NzlyhT3knUesBmvjRReX2xmjYIFA_ec_ipMaIiWFyqK63I7VUjkZRC0VeKLOxixW4fJw)
+| Gamma-Industry (I) | <ul><li>Financial Literacy </li><li>Awareness Campaigns</li><li>Influencers Activism</li></ul> | Design Campaigns, Workshops, Free-Try(s),  and try Influencer Marketing to [Increase market participants and be the sole-beneficiary] |
+| Gamma-Company (S) | <ul><li>Broadcast value proposition</li><li>Play with marketing-mix</li><li>SEOs</li><li>Viral content(s) etc.</li></ul> | Make efforts to capture sale-ready market |
 
 
+| Smartphone Growth | Zoomed out User Growth | 
+| --- | --- |
+|[Smartphone penetration growth forecast](https://www.statista.com/statistics/467163/forecast-of-smartphone-users-in-india/)
+![This is an image](https://lh5.googleusercontent.com/NsuN_ddkiLmu9pw5o4voGqYzqeqKBEbhP1Cw_xzULzsHTUlsCphKVrpSG_yHvjHnoYU93EyttlsMB4NzlyhT3knUesBmvjRReX2xmjYIFA_ec_ipMaIiWFyqK63I7VUjkZRC0VeKLOxixW4fJw)|![User Count growth when zoomed out and studied.](https://lh4.googleusercontent.com/wzDhiY0bxNcAuO0Hia2g3ganf-iYin-S8BjvW9kYDWG_fKMnmMhgDknXGDzV7DBMFASNtZ_m6Yj3rVGSbk41hM9unel-EjfofIZS41N-KcxS93vnD4bYcSR_alQDQWTM46C9vgKFhuGiDvtaMQ)|
 
-![User Count growth when zoomed out and studied.](https://lh4.googleusercontent.com/wzDhiY0bxNcAuO0Hia2g3ganf-iYin-S8BjvW9kYDWG_fKMnmMhgDknXGDzV7DBMFASNtZ_m6Yj3rVGSbk41hM9unel-EjfofIZS41N-KcxS93vnD4bYcSR_alQDQWTM46C9vgKFhuGiDvtaMQ)
-
-User Count growth when zoomed out and studied.
 
 ## **System Dynamics of Growth**
 
@@ -77,12 +70,15 @@ This approach is largely hinged on [Decisions] **strategies**, [current standing
 - The payoff per users in a state $(O_j)$ on customer journey is generally calculated by the revenue model for monetising the engagements of the users. ($P_j$)
 - Goal is to maximize/increase payoff in every iteration with minimum cost where cost is the cost of strategies. Besides, the strategies have externalities and disrupt the process in the next cycle. Hence these are generally multi-stage decisions. The objectives can thus be compresses as
 
-$$
-\text{max } \sum_{O_j} \sum_{k} P_j\times p_{ij}(S_k)\times \#(O_i\to O_j |S_k)
-$$
 
 $$
-\text{s.t} \sum_{k} f(S_k)<C
+\text{max } \sum_{O_j} \sum_{k} P_j\times p_{ij}(S_k)\times \#(O_i\to O_j |S_k)\\
+$$
+
+such that
+
+$$
+ \sum_{k} f(S_k)<C \\
 $$
 
 The work done to establish the decision theoretic efforts has three pillars.
@@ -90,11 +86,12 @@ The work done to establish the decision theoretic efforts has three pillars.
 1. Understanding Customer/Prospect journey and the levers adopted to influence the throughput of customers/prospect through various channels and ultimately through product pipelines. The product of each milestone growth accounts for total growth.
 2. Optimisation of payoffs across a collection of levers (a state in the user journey) to influence a particular aspect of the journey of prospect/user
 
-![img2](https://lh4.googleusercontent.com/8NI9Ij_c9rJjz2ew270v0wxsZmrpqJXzhRXMkyDWQVW7nMXpizrOVMKAZXfmODc4gZwZWttTbAzP5IURuPvbWanxWyOmjy5I1gNkqgDzDUd_JCmhVqIKoEZEymhVA1KcuneyIMhU2ZJnqo-9_Q)
+| Growth across user Journey | Growth Strategies on one stage of journey | 
+| --- | --- |
+| Journey:![journey](https://lh6.googleusercontent.com/7J4unBS4RO-QemXlGBePVxeNlJxm4IurcjZu15t7ngAU6A14daGDrKjsRaBHmq1ogVjNcIlommsBPJXTv1mJ9-eW294FQVpBVpodFAtt4m2e1PndjaHgcINH0WYB7KQZN3TcEn6C8CKLSvmN6Q)| Strategy![strategy](https://lh4.googleusercontent.com/8NI9Ij_c9rJjz2ew270v0wxsZmrpqJXzhRXMkyDWQVW7nMXpizrOVMKAZXfmODc4gZwZWttTbAzP5IURuPvbWanxWyOmjy5I1gNkqgDzDUd_JCmhVqIKoEZEymhVA1KcuneyIMhU2ZJnqo-9_Q)
 
-![img3](https://lh6.googleusercontent.com/7J4unBS4RO-QemXlGBePVxeNlJxm4IurcjZu15t7ngAU6A14daGDrKjsRaBHmq1ogVjNcIlommsBPJXTv1mJ9-eW294FQVpBVpodFAtt4m2e1PndjaHgcINH0WYB7KQZN3TcEn6C8CKLSvmN6Q)
 
-1. Optimisation across all levers to influence the full journey of a prospect/user - This is the same strategy as (2) but optimises for the payoffs from the entire journey.
+3. Optimisation across all levers to influence the full journey of a prospect/user - This is the same strategy as (2) but optimises for the payoffs from the entire journey.
 
 ### **Empirical, Statistical and Machine Learnings**
 
