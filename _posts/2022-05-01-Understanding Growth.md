@@ -38,8 +38,8 @@ $\gamma_s$ is aka the market share in the competition space
 | Gamma | Growth-Causal(s) | Company specific actions to capture more market share |
 | --- | --- | --- |
 | Gamma-Tech (S) | - Technological penetration | Affordable Solutions launched as add-on to their core products (E.g. POS machines) |
-| Gamma-Industry (I) | <ul><li>Financial Literacy </li><li>Awareness Campaigns</li><li>Influencers Activism</li></ul> | Design Campaigns, Workshops, Free-Try(s),  and try Influencer Marketing to [Increase market participants and be the sole-beneficiary] |
-| Gamma-Company (S) | <ul><li>Broadcast value proposition</li><li>Play with marketing-mix</li><li>SEOs</li><li>Viral content(s) etc.</li></ul> | Make efforts to capture sale-ready market |
+| Gamma-Industry (I) | Financial Literacy, Awareness Campaigns, Influencers Activism| Design Campaigns, Workshops, Free-Try(s),  and try Influencer Marketing to [Increase market participants and be the sole-beneficiary] |
+| Gamma-Company (S) | Broadcast value proposition, Play with marketing-mix, SEOs, Viral content(s) etc.| Make efforts to capture sale-ready market |
 
 
 | Smartphone Growth | Zoomed out User Growth | 
