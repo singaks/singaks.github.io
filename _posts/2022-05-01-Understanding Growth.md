@@ -1,4 +1,3 @@
-# Understanding Growth
 
 # **Growth**
 
@@ -47,12 +46,12 @@ $\gamma_s$ is aka the market share in the competition space
 • Play with marketing-mix
 • SEOs
 • Viral content(s) etc. | Make efforts to capture sale-ready market |
+[Smartphone penetration growth forecast](https://www.statista.com/statistics/467163/forecast-of-smartphone-users-in-india/)
+![This is an image](https://lh5.googleusercontent.com/NsuN_ddkiLmu9pw5o4voGqYzqeqKBEbhP1Cw_xzULzsHTUlsCphKVrpSG_yHvjHnoYU93EyttlsMB4NzlyhT3knUesBmvjRReX2xmjYIFA_ec_ipMaIiWFyqK63I7VUjkZRC0VeKLOxixW4fJw)
 
-[Smartphone penetration growth forecast: Ref: [[Link](https://www.statista.com/statistics/467163/forecast-of-smartphone-users-in-india/#:~:text=Smartphone%20users%20in%20India%202010%2D2040&text=The%20number%20of%20smartphone%20users,1.5%20billion%20users%20in%202040.&text=The%20number%20of%20smartphone%20users%20worldwide%20is%20projected%20to,nearly%202.7%20billion%20by%202019.)] Statistia.com](https://lh5.googleusercontent.com/NsuN_ddkiLmu9pw5o4voGqYzqeqKBEbhP1Cw_xzULzsHTUlsCphKVrpSG_yHvjHnoYU93EyttlsMB4NzlyhT3knUesBmvjRReX2xmjYIFA_ec_ipMaIiWFyqK63I7VUjkZRC0VeKLOxixW4fJw)
 
-Smartphone penetration growth forecast: Ref: [[Link](https://www.statista.com/statistics/467163/forecast-of-smartphone-users-in-india/#:~:text=Smartphone%20users%20in%20India%202010%2D2040&text=The%20number%20of%20smartphone%20users,1.5%20billion%20users%20in%202040.&text=The%20number%20of%20smartphone%20users%20worldwide%20is%20projected%20to,nearly%202.7%20billion%20by%202019.)] Statistia.com
 
-[User Count growth when zoomed out and studied.](https://lh4.googleusercontent.com/wzDhiY0bxNcAuO0Hia2g3ganf-iYin-S8BjvW9kYDWG_fKMnmMhgDknXGDzV7DBMFASNtZ_m6Yj3rVGSbk41hM9unel-EjfofIZS41N-KcxS93vnD4bYcSR_alQDQWTM46C9vgKFhuGiDvtaMQ)
+![User Count growth when zoomed out and studied.](https://lh4.googleusercontent.com/wzDhiY0bxNcAuO0Hia2g3ganf-iYin-S8BjvW9kYDWG_fKMnmMhgDknXGDzV7DBMFASNtZ_m6Yj3rVGSbk41hM9unel-EjfofIZS41N-KcxS93vnD4bYcSR_alQDQWTM46C9vgKFhuGiDvtaMQ)
 
 User Count growth when zoomed out and studied.
 
@@ -63,7 +62,7 @@ To capture the sectoral/industrial growth we need to solve for two-key unknowns
 1. **Growth-curve model(s)**] Model for the pattern of growth: The pattern can be studied at various granularities, viz. Global aggregation, Spatial aggregation, Product level aggregation and all such aggregations at which a company can create strategies for capturing the demand. Underlying figure is an illustration of the dynamics of the growth constituents.
 2. **Intervention Model(s)** - These models are fundamentally a what-if/econometric model that tries to capture the association/causation between the strategies adopted and the outcomes expected. Historically, academicians have been framing and studying various Structural Equation Models (SEMs) to understand the growth-hacks for various development metrics of interest.
 
-[Figure reference from [1]](https://lh4.googleusercontent.com/XdsCQtekVWRSopYyJS9-ir65oE0s2sG6RgCrUQhAAWJq-RVXHL1H-wzywja84C1DtR0TDociUj2aLCJNZwK0FD0en4dOSCcPjqvYWBbmtA1Ja-ADeIvMtaYXaGeTWpV8MNKHcfWrEYtQkqccgA)
+![Figure reference from [1]](https://lh4.googleusercontent.com/XdsCQtekVWRSopYyJS9-ir65oE0s2sG6RgCrUQhAAWJq-RVXHL1H-wzywja84C1DtR0TDociUj2aLCJNZwK0FD0en4dOSCcPjqvYWBbmtA1Ja-ADeIvMtaYXaGeTWpV8MNKHcfWrEYtQkqccgA)
 
 Figure reference from [1]
 
@@ -91,9 +90,9 @@ The work done to establish the decision theoretic efforts has three pillars.
 1. Understanding Customer/Prospect journey and the levers adopted to influence the throughput of customers/prospect through various channels and ultimately through product pipelines. The product of each milestone growth accounts for total growth.
 2. Optimisation of payoffs across a collection of levers (a state in the user journey) to influence a particular aspect of the journey of prospect/user
 
-[https://lh4.googleusercontent.com/8NI9Ij_c9rJjz2ew270v0wxsZmrpqJXzhRXMkyDWQVW7nMXpizrOVMKAZXfmODc4gZwZWttTbAzP5IURuPvbWanxWyOmjy5I1gNkqgDzDUd_JCmhVqIKoEZEymhVA1KcuneyIMhU2ZJnqo-9_Q](https://lh4.googleusercontent.com/8NI9Ij_c9rJjz2ew270v0wxsZmrpqJXzhRXMkyDWQVW7nMXpizrOVMKAZXfmODc4gZwZWttTbAzP5IURuPvbWanxWyOmjy5I1gNkqgDzDUd_JCmhVqIKoEZEymhVA1KcuneyIMhU2ZJnqo-9_Q)
+![img2](https://lh4.googleusercontent.com/8NI9Ij_c9rJjz2ew270v0wxsZmrpqJXzhRXMkyDWQVW7nMXpizrOVMKAZXfmODc4gZwZWttTbAzP5IURuPvbWanxWyOmjy5I1gNkqgDzDUd_JCmhVqIKoEZEymhVA1KcuneyIMhU2ZJnqo-9_Q)
 
-[https://lh6.googleusercontent.com/7J4unBS4RO-QemXlGBePVxeNlJxm4IurcjZu15t7ngAU6A14daGDrKjsRaBHmq1ogVjNcIlommsBPJXTv1mJ9-eW294FQVpBVpodFAtt4m2e1PndjaHgcINH0WYB7KQZN3TcEn6C8CKLSvmN6Q](https://lh6.googleusercontent.com/7J4unBS4RO-QemXlGBePVxeNlJxm4IurcjZu15t7ngAU6A14daGDrKjsRaBHmq1ogVjNcIlommsBPJXTv1mJ9-eW294FQVpBVpodFAtt4m2e1PndjaHgcINH0WYB7KQZN3TcEn6C8CKLSvmN6Q)
+![img3](https://lh6.googleusercontent.com/7J4unBS4RO-QemXlGBePVxeNlJxm4IurcjZu15t7ngAU6A14daGDrKjsRaBHmq1ogVjNcIlommsBPJXTv1mJ9-eW294FQVpBVpodFAtt4m2e1PndjaHgcINH0WYB7KQZN3TcEn6C8CKLSvmN6Q)
 
 1. Optimisation across all levers to influence the full journey of a prospect/user - This is the same strategy as (2) but optimises for the payoffs from the entire journey.
 
